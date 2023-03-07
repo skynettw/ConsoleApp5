@@ -10,6 +10,8 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            int a = 100;
+            Console.WriteLine(a >> 1);
             println("Hello world!");
             println("My Message!");
             println("也可以加入中文訊息！");
