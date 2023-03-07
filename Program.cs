@@ -12,6 +12,7 @@ namespace ConsoleApp5
         {
             println("Hello world!");
             println("My Message!");
+            println("也可以加入中文訊息！");
             Console.Write("My BMI is ");
             Console.WriteLine(BMI(65.0, 1.78));
             Console.WriteLine(100 + 200);
